@@ -10,10 +10,10 @@ Currently works in Python 3.6 and above
 Please first install dependencies before running
 ```
 # Clone the repository 
-> git clone <GIT HUB URL>
+> git clone https://github.com/spicyxlegato/disaster-dashboard.git
 
 # Change directories to the project dir
-> cd disaster-dash 
+> cd disaster-dashboard
 >
 
 # Install dependencies (takes maybe 5 minutes)
