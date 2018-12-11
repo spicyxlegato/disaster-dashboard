@@ -1,0 +1,2 @@
+MAPBOX_ACCESS_TOKEN = 'pk.eyJ1Ijoib3JlbnNoaSIsImEiOiJjanA2em9kZTAxanQ0M3Fyd3JleTJmMnpyIn0.Sa15uhR7s_f2fUSvXu2pDQ'
+MAPBOX_STYLE_URL = "mapbox://styles/gracenote83/cjp6viaxl1w142stgyse9p669"
